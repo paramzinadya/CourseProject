@@ -1,0 +1,70 @@
+[
+  {
+    "TrackNumber": "34916899788620",
+    "sender": {
+      "Name": "Парамзина Надежда Евгеньевна",
+      "SenderAddress": {
+        "Country": "Россия",
+        "Region": "Томская область",
+        "City": "Томск",
+        "Street": "Дмитриевская",
+        "HouseNumber": "67",
+        "ApartmentNumber": "2",
+        "Index": "76082"
+      },
+      "PhoneNumber": "89997384056"
+    },
+    "resipient": {
+      "Name": "Привалова Виктория Васильевна",
+      "ResipientAddress": {
+        "Country": "Россия",
+        "Region": "Новосибирская область",
+        "City": "Новосибирск",
+        "Street": "Новогодняя",
+        "HouseNumber": "148",
+        "ApartmentNumber": "58",
+        "Index": "670015"
+      },
+      "PhoneNumber": "89537485927"
+    },
+    "Price": "230",
+    "Weight": "20",
+    "MailingType": "Заказное письмо",
+    "DateAndTime": "10.12.2023 19:20:21",
+    "payment": 0
+  },
+  {
+    "TrackNumber": "77324857775738",
+    "sender": {
+      "Name": "Иванов Андрей Анатольевич",
+      "SenderAddress": {
+        "Country": "Россия",
+        "Region": "Пермский край",
+        "City": "Пермь",
+        "Street": "Заводская",
+        "HouseNumber": "4",
+        "ApartmentNumber": "76",
+        "Index": "603389"
+      },
+      "PhoneNumber": "89997352738"
+    },
+    "resipient": {
+      "Name": "Морозова Наталья Викторовна",
+      "ResipientAddress": {
+        "Country": "Россия",
+        "Region": "Новосибирская область",
+        "City": "Новосибирск",
+        "Street": "Геодезическая",
+        "HouseNumber": "107",
+        "ApartmentNumber": "9",
+        "Index": "670043"
+      },
+      "PhoneNumber": "89537492273"
+    },
+    "Price": "830",
+    "Weight": "1240",
+    "MailingType": "Посылка",
+    "DateAndTime": "10.12.2023 19:25:32",
+    "payment": 1
+  }
+]
